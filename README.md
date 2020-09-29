@@ -10,5 +10,6 @@ Player can type 'exit'  anytime  to exit  the game.
 If Player guesses the correct word with atleast  1  life  remaining,  he / she  is  declared as the winner of this game.
 
 #two-player mode
+
 Player-1 gives a word,   and  Player-2 has  to guess the word in minimum of 5 attempts. Rest of the rules are same. 
 If Player-2  guesses the correct word with atleast  1  life  remaining,  he / she  is  declared as the winner of this game.
